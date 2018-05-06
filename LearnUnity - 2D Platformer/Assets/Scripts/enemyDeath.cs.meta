@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b3e43d2f84c5d14691976df4f2d9fd4
+timeCreated: 1518866073
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyDeathPrefab: {fileID: 1831549011366396, guid: 1b9388c891dbcd94aa785cc7af8eea74,
+      type: 2}
+  - enemyDeathAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
